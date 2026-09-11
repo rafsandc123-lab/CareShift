@@ -108,3 +108,19 @@ Core worker and manager workflows have been implemented and tested using Flutter
 The application was developed using FlutterFlow. Direct source-code export and GitHub synchronization require a supported FlutterFlow plan, so the generated Flutter source code is not included in this repository.
 
 This repository currently serves as project documentation and a portfolio overview of the implemented application.
+## Application Screenshots
+
+### Home Page
+![CareShift Home Page](screenshots/homepage%20careshift.png)
+
+### Manager Dashboard
+![Manager Dashboard](screenshots/Shift%20Manager%20page.png)
+
+### Manage Shifts
+![Manage Shifts](screenshots/Manage%20shifts.png)
+
+### Shift Details
+![Shift Details](screenshots/shift%20Details.png)
+
+### Care Record
+![Care Record](screenshots/Care%20record.png)
